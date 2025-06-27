@@ -66,7 +66,7 @@ This project is part of the AI & ML Internship and focuses on solving a **binary
 
 ---
 ## Screenshots
-![Screenshot 2025-06-26 194630](https://github.com/user-attachments/assets/f6b6a4ec-3428-43d7-9564-1af709d6d877)
+![Screenshot 2025-06-27 215327](https://github.com/user-attachments/assets/a89db39f-4589-4cc2-b7c7-dcc66e611f24)
 ![Screenshot 2025-06-27 215407](https://github.com/user-attachments/assets/ac6cdad7-2181-4576-a767-1b2ca434e927)
 
 
